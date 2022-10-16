@@ -2,9 +2,9 @@
   
 # [Video de apoyo a la lectura]()
 
-# Ley-de-la-palanca
+# Ley_de_la_palanca
 
-n
+![image](https://user-images.githubusercontent.com/112005825/196057222-bbc043f1-19c9-4379-aff9-7ae9531042bc.png)
   
 ## Recopilación de datos:
 
