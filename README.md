@@ -1,6 +1,4 @@
 <table align="center">  <td>    <a href="https://colab.research.google.com/drive/1_dpawSmKD6e6zk3mYGiW5TfL1bve9vp7#scrollTo=BQRxIrvxgfNS"_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  </td></table>
-  
-# [Video de apoyo a la lectura]()
 
 # Ley_de_la_palanca
 
@@ -37,10 +35,9 @@ $100*8=125X₂$
 
 ## Conclusión: 
 
-#### Decimos que la mujer debe ubicarse a $6.4$ pies de distancia del punto de apoyo para equilibrar el sube y baja.
+> Decimos que la mujer debe ubicarse a $6.4$ pies de distancia del punto de apoyo para equilibrar el sube y baja.
 
-## ¿Para qué sirve esto en la vida cotidiana?
 
-#### Si vamos a una chatarrería regularme veremos una maquina de pesaje (calculadora de la ley de la palanca) esta calculadora permite calcular cualquiera de los cuatro parámetros que forman parte de la ley de la palanca.
-  
-# [Calculadora de la ley de la palanca](https://www.herramientasingenieria.com/onlinecalc/spa/fisica/ley-palanca.html)
+
+
+### **Por favor entrar al cuaderno en Google Colab ubicado al inicio de este repositorio para tener una más amplia explicación y dónde además está adjuntado un vídeo dandose esta explicación antes mencionada** 
