@@ -38,4 +38,4 @@ $100*8=125X₂$
 
 > Decimos que la mujer debe ubicarse a $6.4$ pies de distancia del punto de apoyo para equilibrar el sube y baja.
 
-### **Por favor entrar al cuaderno en Google Colab ubicado al inicio de este repositorio para tener una más amplia explicación y dónde además está adjuntado un vídeo dandose esta explicación antes mencionada.** 
+### **Por favor entrar al cuaderno en Google Colab ubicado al inicio de este repositorio para tener una más amplia explicación, extención de pronosticos y dónde además está adjuntado un vídeo dandose esta explicación antes mencionada.**
