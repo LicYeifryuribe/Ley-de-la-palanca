@@ -31,13 +31,11 @@ $W₁X₁=W₂X₂$
 $100*8=125X₂$
   
 ## Reemplazaremos valores y comprobamos:
-![image](https://user-images.githubusercontent.com/112005825/196056876-41486ce8-d5a4-4f27-baf3-c7508debc612.png)
+![image](https://user-images.githubusercontent.com/112005825/196303255-aecdc502-b161-4f5e-914c-9357951462c5.png)
+
 
 ## Conclusión: 
 
 > Decimos que la mujer debe ubicarse a $6.4$ pies de distancia del punto de apoyo para equilibrar el sube y baja.
 
-
-
-
-### **Por favor entrar al cuaderno en Google Colab ubicado al inicio de este repositorio para tener una más amplia explicación y dónde además está adjuntado un vídeo dandose esta explicación antes mencionada** 
+### **Por favor entrar al cuaderno en Google Colab ubicado al inicio de este repositorio para tener una más amplia explicación y dónde además está adjuntado un vídeo dandose esta explicación antes mencionada.** 
