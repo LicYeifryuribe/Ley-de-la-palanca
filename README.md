@@ -1,4 +1,6 @@
 <table align="center">  <td>    <a href="https://colab.research.google.com/drive/1_dpawSmKD6e6zk3mYGiW5TfL1bve9vp7#scrollTo=BQRxIrvxgfNS"_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  </td></table>
+  
+<table align="center">  <td>    <a href="https://github.com/LicYeifryuribe/Ley-de-la-palanca/edit/main/README.md"
 
 # [Open In GitHub](https://github.com/LicYeifryuribe/Ley-de-la-palanca/edit/main/README.md)
 
