@@ -1,5 +1,7 @@
 <table align="center">  <td>    <a href="https://colab.research.google.com/drive/1_dpawSmKD6e6zk3mYGiW5TfL1bve9vp7#scrollTo=BQRxIrvxgfNS"_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  </td></table>
 
+# [Open In GitHub](https://github.com/LicYeifryuribe/Ley-de-la-palanca/edit/main/README.md)
+
 # Ley_de_la_palanca
 
 ![image](https://user-images.githubusercontent.com/112005825/196057222-bbc043f1-19c9-4379-aff9-7ae9531042bc.png)
